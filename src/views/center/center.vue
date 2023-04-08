@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>我是Center</h1>
+        <h1>我是Center2</h1>
     </div>
 </template>
 
